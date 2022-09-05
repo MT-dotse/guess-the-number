@@ -1,3 +1,3 @@
 # Guesssing the number ❓
 
-A simple guessing number project made in python including a while loop, if-statements and a try-catch approach. 
+A simple guessing number game made in python including a while loop, if-statements and a try-catch approach. 
